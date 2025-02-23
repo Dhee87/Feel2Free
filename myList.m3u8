@@ -1072,28 +1072,28 @@ https://sweet-night-1d1d.worst.workers.dev/?id=6299&type=dash
 //SKY SPORTS
 //========================================================================
 
-#EXTINF:-1 group-logo="https://iili.io/2Zrkk9p.png", group-title="SKY SPORTS", Sky Sports +
-#EXTINF:-1 tvg-id="SkySp+ HD.uk" tvg-logo="https://iili.io/2Zrkk9p.png" group-title="SKY SPORTS", Sky Sports +
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/sky_sport.png", group-title="SKY SPORTS", SKY SPORTS
+#EXTINF:-1 tvg-id="SkySp+ HD.uk" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/sky_sport_plus.png" group-title="SKY SPORTS", SKY SPORTS +
 https://ie.sonyrepairs.com/sksparena/index.m3u8
-#EXTINF:-1 tvg-id="SkySp NFL HD.uk" tvg-logo="https://iili.io/2Zrkk9p.png" group-title="SKY SPORTS", Sky Sports Action
+#EXTINF:-1 tvg-id="SkySp NFL HD.uk" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/sky_sport_action.png" group-title="SKY SPORTS", SKY SPORTS ACTION
 https://ie.sonyrepairs.com/skspnfl/index.m3u8
-#EXTINF:-1 tvg-id="SkySpCricket HD.uk" tvg-logo="https://iili.io/2Zrkk9p.png" group-title="SKY SPORTS", Sky Sports Cricket
+#EXTINF:-1 tvg-id="SkySpCricket HD.uk" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/sky_sport_arena.png" group-title="SKY SPORTS", SKY SPORTS CRICKET
 https://ie.sonyrepairs.com/skspcricket/index.m3u8
-#EXTINF:-1 tvg-id="SkySp F1 HD.uk" tvg-logo="https://iili.io/2Zrkk9p.png" group-title="SKY SPORTS", Sky Sports F1
+#EXTINF:-1 tvg-id="SkySp F1 HD.uk" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/sky_sport_f1.png" group-title="SKY SPORTS", SKY SPORTS F1
 https://ie.sonyrepairs.com/skspf1/index.m3u8
-#EXTINF:-1 tvg-id="SkySp Fball HD.uk" tvg-logo="https://iili.io/2Zrkk9p.png" group-title="SKY SPORTS", Sky Sports Football
+#EXTINF:-1 tvg-id="SkySp Fball HD.uk" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/sky_sport_football.png" group-title="SKY SPORTS", SKY SPORTS FOOTBALL
 https://ie.sonyrepairs.com/skspfootball/index.m3u8
-#EXTINF:-1 tvg-id="SkySp Golf HD.uk" tvg-logo="https://iili.io/2Zrkk9p.png" group-title="SKY SPORTS", Sky Sports Golf
+#EXTINF:-1 tvg-id="SkySp Golf HD.uk" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/sky_sport_golf.png" group-title="SKY SPORTS", SKY SPORTS GOLF
 https://ie.sonyrepairs.com/skspgolf/index.m3u8
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://iili.io/2Zrkk9p.png" group-title="SKY SPORTS", Sky Sports Main Event
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/sky_sport_mainevent.png" group-title="SKY SPORTS", SKY SPORTS MAIN EVENT
 https://ie.sonyrepairs.com/skspmainevent/index.m3u8
-#EXTINF:-1 tvg-id="SkySp Mix HD.uk" tvg-logo="https://iili.io/2Zrkk9p.png" group-title="SKY SPORTS", Sky Sports Mix
+#EXTINF:-1 tvg-id="SkySp Mix HD.uk" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/sky_sport_mix.png" group-title="SKY SPORTS", SKY SPORTS MIX
 https://ie.sonyrepairs.com/spspmix/index.m3u8
-#EXTINF:-1 tvg-id="SkySp News HD.uk" tvg-logo="https://iili.io/2Zrkk9p.png" group-title="SKY SPORTS", Sky Sports News
+#EXTINF:-1 tvg-id="SkySp News HD.uk" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/sky_sport_news.png" group-title="SKY SPORTS", SKY SPORTS NEWS
 https://ie.sonyrepairs.com/skspnews/index.m3u8
-#EXTINF:-1 tvg-id="SkySp PL HD.uk" tvg-logo="https://iili.io/2Zrkk9p.png" group-title="SKY SPORTS", Sky Sports Premier League
+#EXTINF:-1 tvg-id="SkySp PL HD.uk" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/sky_sport_premier.png" group-title="SKY SPORTS", SKY SPORTS PREMIER LEAGUE
 https://ie.sonyrepairs.com/sksppremierleague/index.m3u8
-#EXTINF:-1 tvg-id="SkySp Tennis HD.uk" tvg-logo="https://iili.io/2Zrkk9p.png" group-title="SKY SPORTS", Sky Sports Tennis
+#EXTINF:-1 tvg-id="SkySp Tennis HD.uk" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/sky_sport_tennis.png" group-title="SKY SPORTS", SKY SPORTS TENNIS
 https://ie.sonyrepairs.com/sktennis/index.m3u8
 
 
@@ -1101,22 +1101,22 @@ https://ie.sonyrepairs.com/sktennis/index.m3u8
 //ASTRO SUPERSPORT
 //========================================================================
 
-#EXTINF:-1 group-logo="https://iili.io/2ZZ0BJ2.png", group-title="ASTRO SUPERSPORT", ASSP 1 HD
-#EXTINF:-1 tvg-id="Assp1" tvg-logo="https://iili.io/2ZP8X5J.png" group-title="ASTRO SUPERSPORT", ASSP 1 HD
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/assp1.png", group-title="ASTRO SUPERSPORT", ASTRO SUPERSPORT
+#EXTINF:-1 tvg-id="Assp1" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/assp1.png" group-title="ASTRO SUPERSPORT", ASSP 1 HD
 http://vipdikili.top:8080/live/VIP017141733137332272/37ede1a839db/34535.m3u8
-#EXTINF:-1 tvg-id="Assp2" tvg-logo="https://iili.io/2ZP8X5J.png" group-title="ASTRO SUPERSPORT", ASSP 2 HD
+#EXTINF:-1 tvg-id="Assp2" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/assp2.png" group-title="ASTRO SUPERSPORT", ASSP 2 HD
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1365
-#EXTINF:-1 tvg-id="Assp3" tvg-logo="https://iili.io/2ZP8X5J.png" group-title="ASTRO SUPERSPORT", ASSP 3 HD
+#EXTINF:-1 tvg-id="Assp3" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/assp3.png" group-title="ASTRO SUPERSPORT", ASSP 3 HD
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1364
-#EXTINF:-1 tvg-id="Assp4" tvg-logo="https://iili.io/2ZP8X5J.png" group-title="ASTRO SUPERSPORT", ASSP 4 HD
+#EXTINF:-1 tvg-id="Assp4" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/assp4.png" group-title="ASTRO SUPERSPORT", ASSP 4 HD
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1161
-#EXTINF:-1 tvg-id="Assp1" tvg-logo="https://iili.io/2ZP8X5J.png" group-title="ASTRO SUPERSPORT", ASSP 1 FHD
+#EXTINF:-1 tvg-id="Assp1" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/assp1.png" group-title="ASTRO SUPERSPORT", ASSP 1 FHD
 http://exm3u.123tv.to:8080/live/PsV8ILRBYZ/XVPZxk62WC/18623.ts
-#EXTINF:-1 tvg-id="Assp2" tvg-logo="https://iili.io/2ZP8X5J.png" group-title="ASTRO SUPERSPORT", ASSP 2 FHD
+#EXTINF:-1 tvg-id="Assp2" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/assp2.png" group-title="ASTRO SUPERSPORT", ASSP 2 FHD
 http://exm3u.123tv.to:8080/live/PsV8ILRBYZ/XVPZxk62WC/18622.ts
-#EXTINF:-1 tvg-id="Assp3" tvg-logo="https://iili.io/2ZP8X5J.png" group-title="ASTRO SUPERSPORT", ASSP 3 FHD
+#EXTINF:-1 tvg-id="Assp3" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/assp3.png" group-title="ASTRO SUPERSPORT", ASSP 3 FHD
 http://exm3u.123tv.to:8080/live/PsV8ILRBYZ/XVPZxk62WC/18621.ts
-#EXTINF:-1 tvg-id="Assp4" tvg-logo="https://iili.io/2ZP8X5J.png" group-title="ASTRO SUPERSPORT", ASSP 4 FHD
+#EXTINF:-1 tvg-id="Assp4" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/assp4.png" group-title="ASTRO SUPERSPORT", ASSP 4 FHD
 http://exm3u.123tv.to:8080/live/PsV8ILRBYZ/XVPZxk62WC/18620.ts
 
 
