@@ -152,17 +152,17 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/indonesianatv.png" group-title="DENS.TV", Indonesiana TV
 #https://op-group1-swiftservehd-1.dens.tv/h/h292/index.m3u8?app_type=web&userid=lite&chname=indonesiana-tv
-https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
+https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/jaktv.png" group-title="DENS.TV", JakTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/jaktv.png" group-title="DENS.TV", JAKTV
 https://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8?app_type=web&userid=lite&chname=jak-tv
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/jowo_channel.png" group-title="DENS.TV", Jowo Channel
-https://op-group1-swiftservehd-1.dens.tv/h/h108/S4/mnf.m3u8
+https://cdnjkt4.transvision.co.id:1004/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd
 #http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -213,7 +213,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/motor_racingtv.jpg" group-title="DENS.TV", Motor Racing
-https://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8?app_type=web&userid=lite&chname=MotoRRacing_TV
+http://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=MotoRRacing_TV
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
