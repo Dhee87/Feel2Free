@@ -621,7 +621,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinem
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/cinema_world.png" group-title="Vision+", CinemaWorld
-#https://cempedak-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/crime_investigation.png" group-title="Vision+", Crime Investigation
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
