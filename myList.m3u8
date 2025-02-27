@@ -211,7 +211,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8?app_type=web&userid=l
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/dim-tv.png" group-title="Dens.TV", DIM TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/dimtv.png" group-title="Dens.TV", DIM TV
 https://op-group1-swiftservehd-1.dens.tv/h/h232/S4/mnf.m3u8?app_type=web&userid=lite&chname=dim-tv
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
