@@ -5,9 +5,15 @@
 //========================================================================
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/indonesia.png", group-title="Lokal", Lokal
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/cnbc.png" group-title="Lokal", CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/cnnindonesia.png" group-title="Lokal", CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/cnnindonesia.png" group-title="Lokal", CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/dhohotv.png" group-title="Lokal", Dhoho TV
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
@@ -27,6 +33,12 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=eeba2c9c08078d2a729328dbcd1e002b:19090336609b8f4fee1e7aea837a10d9
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/idtv.png" group-title="Lokal", IDTV
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/indosiar.png" group-title="Lokal", Indosiar (Android)
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505849
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/indosiar.png" group-title="Lokal", Indosiar
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -75,6 +87,9 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="TransTV" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/transtv.png" group-title="Lokal", TransTV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/kemenkes.png" group-title="Lokal", TV Kesehatan
+https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/tvku.png" group-title="Lokal", TV KU
 https://tvku.tv/hlsstream/hls/live.m3u8
 
@@ -101,6 +116,50 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/vtv.png" group-title="Lokal", VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
+
+
+
+//========================================================================
+//CAMPUR
+//========================================================================
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/campur.png", group-title="Campur", Campur
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/animal_planet.png" group-title="Campur", Animal Planet
+http://iptv12k.com:35461/654321/123456/2064
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/disney_channel.png" group-title="Campur", Disney Channel
+http://iptv12k.com:35461/654321/123456/2090
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/disney_jr.png" group-title="Campur", Disney Junior
+http://iptv12k.com:35461/654321/123456/2092
+
+#EXTINF:-1 tvg-chno="701" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/horizon-sports.png" group-title="Campur", Horizon Sports
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/h&c.png" group-title="Campur", Horse & Country TV
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="insight.au" tvg-name="Infast" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/insighttv.png" group-title="Campur", Insight
+https://insighttv-samsung-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/love_nature4k.png" group-title="Campur", Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/moonbug_kids.png" group-title="Campur", Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="703" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/motor_racingtv.png" group-title="Campur", MotorRacing TV
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/redbulltv.png" group-title="Campur", RedBull TV 
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8 
+
+#EXTINF:-1 tvg-name="Wired 2 Fish" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/wired2fishtv.png" group-title="Campur", Wired2Fish TV
+https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 
 
 
@@ -403,6 +462,10 @@ https://op-group1-swiftservehd-1.dens.tv/h/h156/S4/mnf.m3u8?app_type=web&userid=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/tv_one.png" group-title="Dens.TV", TV One
 https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=lite&chname=tvone
+
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/tv_one.png" group-title="Dens.TV", TV One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1222,18 +1285,19 @@ https://sweet-night-1d1d.worst.workers.dev/?id=17140&type=dash
 //SPORTS
 //========================================================================
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/bri-liga-1.png",BRI LIGA 1
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/sports.png", group-title="Sports", Sports
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/bri-liga-1.png",BRI LIGA 1
 http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34327
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/bri-liga-1.png",BRI LIGA 1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/bri-liga-1.png",BRI LIGA 1
 https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
-#EXTINF:-1 tvg-id="sbssport.id" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/sbs_sports.png" group-title="SPORTS", SBS SPORTS FHD
+#EXTINF:-1 tvg-id="sbssport.id" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/sbs_sports.png" group-title="Sports", SBS SPORTS FHD
 #EXTVLCOPT:http-referrer=https://m.sports.naver.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/rofj9t2c2bdkvc1ru1b8t7gcv6uq48m4li6q/hdntl=exp=1740240213~acl=*%2frofj9t2c2bdkvc1ru1b8t7gcv6uq48m4li6q%2f*~data=hdntl~hmac=6c82b232fbcbacf7762434888ee8f73f7363df7561cea61a5a7d1ccf1ee76fb2/chunklist_1080.stream.m3u8
 
-#EXTINF:-1 tvg-id="sbssport.id" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/sbs_sports.png" group-title="SPORTS", SBS SPORTS HD
+#EXTINF:-1 tvg-id="sbssport.id" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/sbs_sports.png" group-title="Sports", SBS SPORTS HD
 #EXTVLCOPT:http-referrer=https://m.sports.naver.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/qpbsbnntyfxna4wr8xc5obpdyaymc5eowmnw/hdntl=exp=1740240661~acl=*%2fqpbsbnntyfxna4wr8xc5obpdyaymc5eowmnw%2f*~data=hdntl~hmac=af52faa15c8eff9ae886a577a47bd4e7d3564ea7b09a46d4209ccbba2974ee78/chunklist_1080.stream.m3u8
