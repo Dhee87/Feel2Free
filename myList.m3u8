@@ -1470,28 +1470,28 @@ http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101760
 //HUB PREMIER
 //========================================================================
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/hub_premier1.png", group-title="Hub Premier", HUB PREMIER
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/hub_premier1.png" group-title="Hub Premier", HUB PREMIER 1 FHD
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/hub_premier.png", group-title="Hub Premier", Hub Premier
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/hub_premier1.png" group-title="Hub Premier", Hub Premier 1
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112231
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/hub_premier2.png" group-title="Hub Premier", HUB PREMIER 2 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/hub_premier2.png" group-title="Hub Premier", Hub Premier 2
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112229 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/hub_premier3.png" group-title="Hub Premier", HUB PREMIER 3 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/hub_premier3.png" group-title="Hub Premier", Hub Premier 3
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112228 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/hub_premier4.png" group-title="Hub Premier", HUB PREMIER 4 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/hub_premier4.png" group-title="Hub Premier", Hub Premier 4
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112227 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/hub_premier5.png" group-title="Hub Premier", HUB PREMIER 5 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/hub_premier5.png" group-title="Hub Premier", Hub Premier 5
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112226 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/hub_premier6.png" group-title="Hub Premier", HUB PREMIER 6 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/hub_premier6.png" group-title="Hub Premier", Hub Premier 6
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112225 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/hub_premier7.png" group-title="Hub Premier", HUB PREMIER 7 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/hub_premier7.png" group-title="Hub Premier", Hub Premier 7
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112224 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/hub_premier8.png" group-title="Hub Premier", HUB PREMIER 8 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/hub_premier8.png" group-title="Hub Premier", Hub Premier 8
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112223 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/hub_premier9.png" group-title="Hub Premier", HUB PREMIER 9 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/hub_premier9.png" group-title="Hub Premier", Hub Premier 9
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112222 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/hub_premier10.png" group-title="Hub Premier", HUB PREMIER 10 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/hub_premier10.png" group-title="Hub Premier", Hub Premier 10
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112221 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/hub_premier11.png" group-title="Hub Premier", HUB PREMIER 11 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/hub_premier11.png" group-title="Hub Premier", Hub Premier 11
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112220
 
 
@@ -1499,31 +1499,31 @@ http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112220
 //NOW SPORTS
 //========================================================================
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/now_sports.png", group-title="Now Sports", NOW SPORTS
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/now_sports1.png" group-title="Now Sports", NOW SPORTS 1 FHD
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/nowsports.png", group-title="Now Sports", Now Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/nowsports1.png" group-title="Now Sports", Now Sports 1
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112207 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/now_sports2.png" group-title="Now Sports", NOW SPORTS 2 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/nowsports2.png" group-title="Now Sports", Now Sports 2
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112206 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/now_sports3.png" group-title="Now Sports", NOW SPORTS 3 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/nowsports3.png" group-title="Now Sports", Now Sports 3
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112205 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/now_sports4.png" group-title="Now Sports", NOW SPORTS 4 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/nowsports4.png" group-title="Now Sports", Now Sports 4
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112204 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/now_sports5.png" group-title="Now Sports", NOW SPORTS 5 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/nowsports5.png" group-title="Now Sports", Now Sports 5
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112203 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/now_sports6.png" group-title="Now Sports", NOW SPORTS 6 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/nowsports6.png" group-title="Now Sports", Now Sports 6
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112202 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/now_sports7.png" group-title="Now Sports", NOW SPORTS 7 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/nowsports7.png" group-title="Now Sports", Now Sports 7
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112201 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/now_sports_premier1.png" group-title="Now Sports", NOW PREMIER 1 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/nowsports_premier1.png" group-title="Now Sports", Now Sports Premier 1
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112200 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/now_sports_premier2.png" group-title="Now Sports", NOW PREMIER 2 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/nowsports_premier2.png" group-title="Now Sports", Now Sports Premier 2
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112194 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/now_sports_premier3.png" group-title="Now Sports", NOW PREMIER 3 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/nowsports_premier3.png" group-title="Now Sports", Now Sports Premier 3
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112199 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/now_sports_premier4.png" group-title="Now Sports", NOW PREMIER 4 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/nowsports_premier4.png" group-title="Now Sports", Now Sports Premier 4
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112198 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/now_sports_premier5.png" group-title="Now Sports", NOW PREMIER 5 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/nowsports_premier5.png" group-title="Now Sports", Now Sports Premier 5
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112197 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/now_sports_premier6.png" group-title="Now Sports", NOW PREMIER 6 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/nowsports_premier6.png" group-title="Now Sports", Now Sports Premier 6
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112196 
 
