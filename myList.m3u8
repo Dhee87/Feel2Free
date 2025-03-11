@@ -1441,28 +1441,28 @@ http://exm3u.123tv.to:8080/live/PsV8ILRBYZ/XVPZxk62WC/18620.ts
 //SSC SPORTS
 //========================================================================
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/ssc.png", group-title="SSC Sports", SSC SPORTS
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/ssc.png" group-title="SSC Sports", SSC 1 FHD 
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/ssc.png", group-title="SSC Sports", SSC Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/ssc.png" group-title="SSC Sports", SSC 1
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101766
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/ssc.png" group-title="SSC Sports", SSC 2 FHD  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/ssc.png" group-title="SSC Sports", SSC 2
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101765 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/ssc.png" group-title="SSC Sports", SSC 3 FHD  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/ssc.png" group-title="SSC Sports", SSC 3
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101764 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/ssc.png" group-title="SSC Sports", SSC 4 FHD  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/ssc.png" group-title="SSC Sports", SSC 4
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101763
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/ssc.png" group-title="SSC Sports", SSC 5 FHD  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/ssc.png" group-title="SSC Sports", SSC 5
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101761 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/ssc.png" group-title="SSC Sports", SSC 6 FHD  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/ssc.png" group-title="SSC Sports", SSC 6
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101759
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/ssc.png" group-title="SSC Sports", SSC 7 FHD  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/ssc.png" group-title="SSC Sports", SSC 7
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101758 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/ssc.png" group-title="SSC Sports", SSC EXTRA 1 FHD  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/ssc.png" group-title="SSC Sports", SSC Extra 1
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/114764
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/ssc.png" group-title="SSC Sports", SSC EXTRA 2 FHD  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/ssc.png" group-title="SSC Sports", SSC Extra 2
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/114762
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/ssc.png" group-title="SSC Sports", SSC EXTRA 3 FHD  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/ssc.png" group-title="SSC Sports", SSC Extra 3
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/114760
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/ssc.png" group-title="SSC Sports", SSC NEWS FHD 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/ssc.png" group-title="SSC Sports", SSC News
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101760
 
 
