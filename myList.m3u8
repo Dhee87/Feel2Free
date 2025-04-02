@@ -139,6 +139,19 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 #EXTINF:-1 tvg-id="Dunia Sinema HD" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/dunia_sinema.png" group-title="Campur", Dunia Sinema
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
+#EXTINF:-1 tvg-id="HBO" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/hbo.png" group-title="Campur", HBO
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8
+#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1496.m3u8
+
+#EXTINF:-1 tvg-id="HBOHits" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/hbo_hits.png" group-title="Campur", HBO Hits
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
+
+#EXTINF:-1 tvg-id="HBOFamily" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/hbo_family.png" group-title="Campur", HBO Family 
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/592.m3u8
+
+#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/hbo_signature.png" group-title="Campur", HBO Signature
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1498.m3u8
+
 #EXTINF:-1 tvg-chno="701" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/horizon-sports.png" group-title="Campur", Horizon Sports
 #EXTVLCOPT:network-caching=1000
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
@@ -740,6 +753,36 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTINF:-1 tvg-id="708" tvg-url="https://bit.ly/UnifyEpg" group-title="Vision+" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/bein_sports1.png", beIN Sports 1 
+https://cempedak-live-cdn.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTINF:-1 tvg-id="709" tvg-url="https://bit.ly/UnifyEpg" group-title="Vision+" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/bein_sports2.png", beIN Sports 2 
+https://cempedak-live-cdn.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTINF:-1 tvg-id="beIN SPORTS 3 (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" group-title="Vision+" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/bein_sports3.png", beIN Sports 3 
+https://cempedak-live-cdn.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTINF:-1 tvg-id="710" tvg-url="https://bit.ly/UnifyEpg" group-title="Vision+" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/bein_sports4.png", beIN Sports 4
+https://cempedak-live-cdn.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTINF:-1 tvg-id="beIN SPORTS 5 (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" group-title="Vision+" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/bein_sports5.png", beIN Sports 5
+https://cempedak-live-cdn.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -955,13 +998,13 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/moonbug_kids.png" group-title="Vision+", Moonbug Kids
 https://cempedak-live-cdn.mncnow.id/live/eds/Moonbug/sa_dash_vmx/Moonbug.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/mtv_live.png" group-title="Vision+", MTV Live
+#EXTINF:-1 tvg-id="MTVLive.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/mtv_live.png" group-title="Vision+", MTV Live
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/music_tv.png" group-title="Vision+", Music TV
+#EXTINF:-1 tvg-id="MusicTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/music_tv.png" group-title="Vision+", Music TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -1068,14 +1111,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/sportstars2.png" group-title="Vision+", Sportstars 2
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/sportstars3.png" group-title="Vision+", Sportstars 3
-#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-
 EXTINF:0 group-title="Vision+" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/sportstars3.png",Sportstars 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://natan.nonas.workers.dev/licesnse?id=1002
@@ -1086,21 +1121,6 @@ EXTINF:-1 group-title="Vision+" tvg-id="" tvg-url="" tvg-logo="https://raw.githu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
 https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd|Referer=https://www.visionplus.id/
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/sportstars4.png" group-title="Vision+", Sportstars 4
-#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3654ca35e72440b6aaa897fd36231191/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/sportstars4.png" group-title="Vision+", Sportstars 4
-#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3654ca35e72440b6aaa897fd36231191/index.mpd
-#https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/spotv.png" group-title="Vision+", SPOTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1153,7 +1173,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.m
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/zoomoo.png" group-title="Vision+", Zoo Moo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/zoomoo.png" group-title="Vision+", ZooMoo
 https://cempedak-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
 
 
@@ -1162,8 +1182,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
 //VIDIO
 //========================================================================
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/vidio.png", group-title="Vidio", VIDIO
-#EXTINF:-1 tvg-id="bein1.id" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/bein_sports1.png" group-title="Vidio", beIN Sports 1
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/vidio.png", group-title="Vidio", VIDIO
+#EXTINF:-1 tvg-id="bein1.id" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/vidio_bein1.png" group-title="Vidio", beIN Sports 1
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1251,110 +1271,106 @@ https://dl.dropboxusercontent.com/scl/fi/9rnvihankgph3i6xhap6k/indosiar.m3u8?rlk
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/bri-liga-1.png",BRI LIGA 1
 https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
-#EXTINF:-1 tvg-id="sbssport.id" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/sbs_sports.png" group-title="Sports", SBS SPORTS FHD
-#EXTVLCOPT:http-referrer=https://m.sports.naver.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-https://livecloud.akamaized.net/sports/lip2_kr/cnmssgpu0001/rofj9t2c2bdkvc1ru1b8t7gcv6uq48m4li6q/hdntl=exp=1740240213~acl=*%2frofj9t2c2bdkvc1ru1b8t7gcv6uq48m4li6q%2f*~data=hdntl~hmac=6c82b232fbcbacf7762434888ee8f73f7363df7561cea61a5a7d1ccf1ee76fb2/chunklist_1080.stream.m3u8
-
-#EXTINF:-1 tvg-id="sbssport.id" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/sbs_sports.png" group-title="Sports", SBS SPORTS HD
-#EXTVLCOPT:http-referrer=https://m.sports.naver.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/qpbsbnntyfxna4wr8xc5obpdyaymc5eowmnw/hdntl=exp=1740240661~acl=*%2fqpbsbnntyfxna4wr8xc5obpdyaymc5eowmnw%2f*~data=hdntl~hmac=af52faa15c8eff9ae886a577a47bd4e7d3564ea7b09a46d4209ccbba2974ee78/chunklist_1080.stream.m3u8
 
 
 //========================================================================
 //BEIN SPORTS
 //========================================================================
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/bein_sports.png", group-title="beIN Sports", BEIN SPORTS
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/bein_sports1.png" group-title="beIN Sports", BEIN 1 FHD
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/bein_sports.png", group-title="beIN Sports", beIN Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/bein_sports1.png" group-title="beIN Sports", beIN 1 FHD
 http://45.139.122.148:8000/play/a004
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/bein_sports2.png" group-title="beIN Sports", BEIN 2 FHD
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/bein_sports2.png" group-title="beIN Sports", beIN 2 FHD
 http://45.139.122.148:8000/play/a005
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/bein_sports3.png" group-title="beIN Sports", BEIN 3 FHD
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/bein_sports3.png" group-title="beIN Sports", beIN 3 FHD
 http://45.139.122.148:8000/play/a006
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/bein_sports4.png" group-title="beIN Sports", BEIN 4 FHD
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/bein_sports4.png" group-title="beIN Sports", beIN 4 FHD
 http://45.139.122.148:8000/play/a007
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/bein_sports5.png" group-title="beIN Sports", BEIN 5 FHD
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/bein_sports5.png" group-title="beIN Sports", beIN 5 FHD
 http://45.139.122.148:8000/play/a008
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/bein_sports6.png" group-title="beIN Sports", BEIN 6 FHD
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/bein_sports6.png" group-title="beIN Sports", beIN 6 FHD
 http://45.139.122.148:8000/play/a009
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/bein_sports7.png" group-title="beIN Sports", BEIN 7 FHD
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/bein_sports7.png" group-title="beIN Sports", beIN 7 FHD
 http://45.139.122.148:8000/play/a00a
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/bein_sports8.png" group-title="beIN Sports", BEIN 8 FHD
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/bein_sports8.png" group-title="beIN Sports", beIN 8 FHD
 http://45.139.122.148:8000/play/a00b
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/bein_sports1.png" group-title="beIN Sports", BEIN 1
-http://ktv.im:8080/kk56712/kk12345/49522
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/bein_sports2.png" group-title="beIN Sports", BEIN 2
-http://ktv.im:8080/kk56712/kk12345/49523
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/bein_sports3.png" group-title="beIN Sports", BEIN 3 
-http://ktv.im:8080/kk56712/kk12345/49524
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/bein_sports4.png" group-title="beIN Sports", BEIN 4 
-http://ktv.im:8080/kk56712/kk12345/49525
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/bein_sports5.png" group-title="beIN Sports", BEIN 5 
-http://ktv.im:8080/kk56712/kk12345/49526
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/bein_sports6.png" group-title="beIN Sports", BEIN 6 
-http://ktv.im:8080/kk56712/kk12345/49527
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/bein_sports7.png" group-title="beIN Sports", BEIN 7 
-http://ktv.im:8080/kk56712/kk12345/49528
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/bein_sports8.png" group-title="beIN Sports", BEIN 8 
-http://ktv.im:8080/kk56712/kk12345/49529
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/bein_sportsmax9.png" group-title="beIN Sports", BEIN 9 
-http://ktv.im:8080/kk56712/kk12345/49530
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/bein_sportsafc.png" group-title="beIN Sports", BEIN AFC
-http://ktv.im:8080/kk56712/kk12345/49531
+
 
 
 //========================================================================
 //SKY SPORTS
 //========================================================================
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/sky_sport.png", group-title="Sky Sports", SKY SPORTS
-#EXTINF:-1 tvg-id="SkySp+ HD.uk" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/sky_sport_plus.png" group-title="Sky Sports", SKY SPORTS +
-https://ie.sonyrepairs.com/sksparena/index.m3u8
-#EXTINF:-1 tvg-id="SkySp NFL HD.uk" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/sky_sport_action.png" group-title="Sky Sports", SKY SPORTS ACTION
-https://ie.sonyrepairs.com/skspnfl/index.m3u8
-#EXTINF:-1 tvg-id="SkySpCricket HD.uk" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/sky_sport_arena.png" group-title="Sky Sports", SKY SPORTS CRICKET
-https://ie.sonyrepairs.com/skspcricket/index.m3u8
-#EXTINF:-1 tvg-id="SkySp F1 HD.uk" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/sky_sport_f1.png" group-title="Sky Sports", SKY SPORTS F1
-https://ie.sonyrepairs.com/skspf1/index.m3u8
-#EXTINF:-1 tvg-id="SkySp Fball HD.uk" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/sky_sport_football.png" group-title="Sky Sports", SKY SPORTS FOOTBALL
-https://ie.sonyrepairs.com/skspfootball/index.m3u8
-#EXTINF:-1 tvg-id="SkySp Golf HD.uk" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/sky_sport_golf.png" group-title="Sky Sports", SKY SPORTS GOLF
-https://ie.sonyrepairs.com/skspgolf/index.m3u8
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/sky_sport_mainevent.png" group-title="Sky Sports", SKY SPORTS MAIN EVENT
-https://ie.sonyrepairs.com/skspmainevent/index.m3u8
-#EXTINF:-1 tvg-id="SkySp Mix HD.uk" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/sky_sport_mix.png" group-title="Sky Sports", SKY SPORTS MIX
-https://ie.sonyrepairs.com/spspmix/index.m3u8
-#EXTINF:-1 tvg-id="SkySp News HD.uk" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/sky_sport_news.png" group-title="Sky Sports", SKY SPORTS NEWS
-https://ie.sonyrepairs.com/skspnews/index.m3u8
-#EXTINF:-1 tvg-id="SkySp PL HD.uk" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/sky_sport_premier.png" group-title="Sky Sports", SKY SPORTS PREMIER LEAGUE
-https://ie.sonyrepairs.com/sksppremierleague/index.m3u8
-#EXTINF:-1 tvg-id="SkySp Tennis HD.uk" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/sky_sport_tennis.png" group-title="Sky Sports", SKY SPORTS TENNIS
-https://ie.sonyrepairs.com/sktennis/index.m3u8
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/sky_sport.png", group-title="Sky Sports", SKY SPORTS
+#EXTINF:-1 tvg-id="SkySp+ HD.uk" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/sky_sport_plus.png" group-title="Sky Sports", SKY SPORTS +
+#https://ie.sonyrepairs.com/sksparena/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp NFL HD.uk" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/sky_sport_action.png" group-title="Sky Sports", SKY SPORTS ACTION
+#https://ie.sonyrepairs.com/skspnfl/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySpCricket HD.uk" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/sky_sport_arena.png" group-title="Sky Sports", SKY SPORTS CRICKET
+#https://ie.sonyrepairs.com/skspcricket/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp F1 HD.uk" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/sky_sport_f1.png" group-title="Sky Sports", SKY SPORTS F1
+#https://ie.sonyrepairs.com/skspf1/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp Fball HD.uk" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/sky_sport_football.png" group-title="Sky Sports", SKY SPORTS FOOTBALL
+#https://ie.sonyrepairs.com/skspfootball/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp Golf HD.uk" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/sky_sport_golf.png" group-title="Sky Sports", SKY SPORTS GOLF
+#https://ie.sonyrepairs.com/skspgolf/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/sky_sport_mainevent.png" group-title="Sky Sports", SKY SPORTS MAIN EVENT
+#https://ie.sonyrepairs.com/skspmainevent/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp Mix HD.uk" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/sky_sport_mix.png" group-title="Sky Sports", SKY SPORTS MIX
+#https://ie.sonyrepairs.com/spspmix/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp News HD.uk" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/sky_sport_news.png" group-title="Sky Sports", SKY SPORTS NEWS
+#https://ie.sonyrepairs.com/skspnews/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp PL HD.uk" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/sky_sport_premier.png" group-title="Sky Sports", SKY SPORTS PREMIER LEAGUE
+#https://ie.sonyrepairs.com/sksppremierleague/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySp Tennis HD.uk" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/sky_sport_tennis.png" group-title="Sky Sports", SKY SPORTS TENNIS
+#https://ie.sonyrepairs.com/sktennis/index.m3u8
 
 
 //========================================================================
 //ASTRO SUPERSPORT
 //========================================================================
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/assp1.png", group-title="Astro Supersport", ASTRO SUPERSPORT
-#EXTINF:-1 tvg-id="Assp1" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/assp1.png" group-title="Astro Supersport", ASSP 1 HD
-http://vipdikili.top:8080/live/VIP017141733137332272/37ede1a839db/34535.m3u8
-#EXTINF:-1 tvg-id="Assp2" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/assp2.png" group-title="Astro Supersport", ASSP 2 HD
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1365
-#EXTINF:-1 tvg-id="Assp3" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/assp3.png" group-title="Astro Supersport", ASSP 3 HD
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1364
-#EXTINF:-1 tvg-id="Assp4" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/assp4.png" group-title="Astro Supersport", ASSP 4 HD
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1161
-#EXTINF:-1 tvg-id="Assp1" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/assp1.png" group-title="Astro Supersport", ASSP 1 FHD
-http://exm3u.123tv.to:8080/live/PsV8ILRBYZ/XVPZxk62WC/18623.ts
-#EXTINF:-1 tvg-id="Assp2" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/assp2.png" group-title="Astro Supersport", ASSP 2 FHD
-http://exm3u.123tv.to:8080/live/PsV8ILRBYZ/XVPZxk62WC/18622.ts
-#EXTINF:-1 tvg-id="Assp3" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/assp3.png" group-title="Astro Supersport", ASSP 3 FHD
-http://exm3u.123tv.to:8080/live/PsV8ILRBYZ/XVPZxk62WC/18621.ts
-#EXTINF:-1 tvg-id="Assp4" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/assp4.png" group-title="Astro Supersport", ASSP 4 FHD
-http://exm3u.123tv.to:8080/live/PsV8ILRBYZ/XVPZxk62WC/18620.ts
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/assp1.png", group-title="Astro Supersport", ASTRO SUPERSPORT
+#EXTINF:-1 tvg-id="Assp1" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/assp1.png" group-title="Astro Supersport", ASSP 1 HD
+#http://vipdikili.top:8080/live/VIP017141733137332272/37ede1a839db/34535.m3u8
+
+#EXTINF:-1 tvg-id="Assp2" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/assp2.png" group-title="Astro Supersport", ASSP 2 HD
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1365
+
+#EXTINF:-1 tvg-id="Assp3" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/assp3.png" group-title="Astro Supersport", ASSP 3 HD
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1364
+
+#EXTINF:-1 tvg-id="Assp4" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/assp4.png" group-title="Astro Supersport", ASSP 4 HD
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/1161
+
+#EXTINF:-1 tvg-id="Assp1" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/assp1.png" group-title="Astro Supersport", ASSP 1 FHD
+#http://exm3u.123tv.to:8080/live/PsV8ILRBYZ/XVPZxk62WC/18623.ts
+
+#EXTINF:-1 tvg-id="Assp2" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/assp2.png" group-title="Astro Supersport", ASSP 2 FHD
+#http://exm3u.123tv.to:8080/live/PsV8ILRBYZ/XVPZxk62WC/18622.ts
+
+#EXTINF:-1 tvg-id="Assp3" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/assp3.png" group-title="Astro Supersport", ASSP 3 FHD
+#http://exm3u.123tv.to:8080/live/PsV8ILRBYZ/XVPZxk62WC/18621.ts
+
+#EXTINF:-1 tvg-id="Assp4" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/assp4.png" group-title="Astro Supersport", ASSP 4 FHD
+#http://exm3u.123tv.to:8080/live/PsV8ILRBYZ/XVPZxk62WC/18620.ts
 
 
 //========================================================================
@@ -1363,27 +1379,37 @@ http://exm3u.123tv.to:8080/live/PsV8ILRBYZ/XVPZxk62WC/18620.ts
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/ssc.png", group-title="SSC Sports", SSC Sports
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/ssc.png" group-title="SSC Sports", SSC 1
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101766
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101766
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/ssc.png" group-title="SSC Sports", SSC 2
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101765 
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101765 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/ssc.png" group-title="SSC Sports", SSC 3
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101764 
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101764 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/ssc.png" group-title="SSC Sports", SSC 4
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101763
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101763
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/ssc.png" group-title="SSC Sports", SSC 5
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101761 
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101761 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/ssc.png" group-title="SSC Sports", SSC 6
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101759
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101759
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/ssc.png" group-title="SSC Sports", SSC 7
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101758 
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101758 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/ssc.png" group-title="SSC Sports", SSC Extra 1
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/114764
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/114764
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/ssc.png" group-title="SSC Sports", SSC Extra 2
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/114762
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/114762
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/ssc.png" group-title="SSC Sports", SSC Extra 3
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/114760
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/114760
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/ssc.png" group-title="SSC Sports", SSC News
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101760
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101760
 
 
 //========================================================================
@@ -1392,27 +1418,37 @@ http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101760
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/hub_premier.png", group-title="Hub Premier", Hub Premier
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/hub_premier1.png" group-title="Hub Premier", Hub Premier 1
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112231
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112231
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/hub_premier2.png" group-title="Hub Premier", Hub Premier 2
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112229 
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112229 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/hub_premier3.png" group-title="Hub Premier", Hub Premier 3
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112228 
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112228 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/hub_premier4.png" group-title="Hub Premier", Hub Premier 4
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112227 
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112227 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/hub_premier5.png" group-title="Hub Premier", Hub Premier 5
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112226 
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112226 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/hub_premier6.png" group-title="Hub Premier", Hub Premier 6
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112225 
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112225 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/hub_premier7.png" group-title="Hub Premier", Hub Premier 7
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112224 
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112224 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/hub_premier8.png" group-title="Hub Premier", Hub Premier 8
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112223 
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112223 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/hub_premier9.png" group-title="Hub Premier", Hub Premier 9
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112222 
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112222 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/hub_premier10.png" group-title="Hub Premier", Hub Premier 10
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112221 
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112221 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/hub_premier11.png" group-title="Hub Premier", Hub Premier 11
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112220
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112220
 
 
 //========================================================================
@@ -1421,29 +1457,41 @@ http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112220
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/nowsports.png", group-title="Now Sports", Now Sports
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/nowsports1.png" group-title="Now Sports", Now Sports 1
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112207 
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112207 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/nowsports2.png" group-title="Now Sports", Now Sports 2
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112206 
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112206 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/nowsports3.png" group-title="Now Sports", Now Sports 3
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112205 
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112205 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/nowsports4.png" group-title="Now Sports", Now Sports 4
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112204 
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112204 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/nowsports5.png" group-title="Now Sports", Now Sports 5
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112203 
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112203 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/nowsports6.png" group-title="Now Sports", Now Sports 6
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112202 
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112202 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/nowsports7.png" group-title="Now Sports", Now Sports 7
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112201 
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112201 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/nowsports_premier1.png" group-title="Now Sports", Now Sports Premier 1
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112200 
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112200 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/nowsports_premier2.png" group-title="Now Sports", Now Sports Premier 2
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112194 
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112194 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/nowsports_premier3.png" group-title="Now Sports", Now Sports Premier 3
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112199 
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112199 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/nowsports_premier4.png" group-title="Now Sports", Now Sports Premier 4
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112198 
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112198 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/nowsports_premier5.png" group-title="Now Sports", Now Sports Premier 5
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112197 
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112197 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/nowsports_premier6.png" group-title="Now Sports", Now Sports Premier 6
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112196 
+#http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112196 
 
