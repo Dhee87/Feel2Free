@@ -1183,7 +1183,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
 //========================================================================
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/vidio.png", group-title="Vidio", VIDIO
-#EXTINF:-1 tvg-id="bein1.id" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/vidio_bein1.png" group-title="Vidio", beIN Sports 1
+#EXTINF:-1 tvg-id="bein1.id" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/vidio_bein1.jpg" group-title="Vidio", beIN Sports 1
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1264,7 +1264,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=17140&type=dash
 //SPORTS
 //========================================================================
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/sports.png", group-title="Sports", Sports
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/sports.png", group-title="Sports", Sports
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/bri-liga-1.png",BRI LIGA 1
 https://dl.dropboxusercontent.com/scl/fi/9rnvihankgph3i6xhap6k/indosiar.m3u8?rlkey=nz5nopipwlkmypsxldeki3bin&st=naqkbax7
 
