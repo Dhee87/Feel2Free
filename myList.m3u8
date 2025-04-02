@@ -1083,14 +1083,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 
 EXTINF:0 group-title="Vision+" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/sportstars3.png",Sportstars 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://natan.nonas.workers.dev/licesnse?id=1002
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-
-EXTINF:-1 group-title="Vision+" tvg-id="" tvg-url="" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/sportstars4.png",Sportstars 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
-https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd|Referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/spotv.png" group-title="Vision+", SPOTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1241,6 +1236,20 @@ https://dl.dropboxusercontent.com/scl/fi/9rnvihankgph3i6xhap6k/indosiar.m3u8?rlk
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/bri-liga-1.png",BRI LIGA 1
 https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/kbsn_sports.png" group-title="Sports", KBSN SPORTS SD
+#EXTVLCOPT:http-referrer=https://kakotv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live-edge-th136.myjktv.com/watch/live.m3u8?video=kbs_n_sports_540&sid=kxRlfxO8ArVsFyINmzY0riyDfXXEPBPlFcYnWyOl&secret=702bda21320b4cec163bcbf3b2553ee3&time=1741642162
+#https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/7iv4n9ctcutdnuaf6xceixmsald2k8zfq0rc/1080.stream/hdntl=exp=1743102780~acl=*%2f7iv4n9ctcutdnuaf6xceixmsald2k8zfq0rc%2f*~data=hdntl~hmac=9173f80141c69cca7d56e3d35a515ec968b441a521d3f1f83c19a46713ed8f5a/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/sbs_sports.png" group-title="Sports", SBS SPORTS LIVE EVEN
+#EXTVLCOPT:http-referrer=https://m.sports.naver.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/xby8orqh9fuuqp75c3m4rgap46620izekpc1/1080.stream/hdntl=exp=1743619378~acl=*%2fxby8orqh9fuuqp75c3m4rgap46620izekpc1%2f*~data=hdntl~hmac=ca07bbb3fe4b5935394ab0ecbc8ca430a55e8f6933d2ab18acced55248c3ba9d/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dhee87/Feel2Free/refs/heads/main/logos/round/v_live.png" group-title="Sports", V-Live
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://d37nf5n4fr3338.cloudfront.net/index.m3u8
 
 
 //========================================================================
